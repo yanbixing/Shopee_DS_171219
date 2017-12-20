@@ -1,0 +1,32 @@
+	key	value	NumClass	Cat2sum	Cat3sum
+0	0	('Storage', 'Others', 'unknown', 814.92936315709699)	0	{'Storage'}	{'Others'}
+1	1	('Kitchen & Dining', 'Kitchen tools', 'unknown', 819.17616398611187)	1	{'Kitchen & Dining'}	{'Kitchen Knife', 'Drinking Water Pump', 'Kitchen tools'}
+2	2	('Bedroom', 'Bedsheet', 'transparan', 812.44985040890197)	2	{'Bedroom'}	{'Bedsheet'}
+3	3	('Decoration', 'Displays', 'unknown', 816.04420602733751)	3	{'Decoration'}	{'Displays', 'Table Cloth', 'Photo Frame'}
+4	4	('Decoration', 'Others', 'unknown', 816.22404062097769)	4	{'Decoration'}	{'Others'}
+5	5	('Kitchen & Dining', 'Others', 'none', 815.34669018227066)	5	{'Kitchen & Dining'}	{'Others'}
+6	6	('Decoration', 'Thin Curtain', 'baichuan', 813.99182985220011)	6	{'Decoration'}	{'Thin Curtain'}
+7	7	('Kitchen & Dining', 'Food Storage', 'tupperware', 812.61969825288224)	7	{'Kitchen & Dining'}	{'Kitchen Knife', 'Food Storage'}
+8	8	('Kitchen & Dining', 'Others', 'tupperware', 826.29201645978662)	8	{'Kitchen & Dining'}	{'Others'}
+9	9	('Storage', 'Others', 'none', 823.96584046633996)	9	{'Storage'}	{'Box', 'Cloth Hanger', 'Wardrobe', 'Others', 'Basket  ', 'Shoes Storage', 'Drawer'}
+10	10	('Kitchen & Dining', 'Dining Set', 'none', 818.27435179864983)	10	{'Kitchen & Dining'}	{'Kitchen Knife', 'Cooking Set', 'Dining Set', 'Drinking Water Pump'}
+11	11	('Bedroom', 'Blanket', 'vinyl', 815.85443299701205)	11	{'Bedroom'}	{'Blanket'}
+12	12	('Kitchen & Dining', 'Others', 'unknown', 818.82700231239926)	12	{'Kitchen & Dining'}	{'Others'}
+13	13	('Storage', 'Bag Organizer', 'none', 814.70496330523474)	13	{'Storage'}	{'Box', 'Bag Organizer', 'Cloth Hanger', 'Rack  ', 'Basket  ', 'Wardrobe', 'Drawer', 'Shoes Storage'}
+14	14	('Decoration', 'Wall decoration  ', 'unknown', 815.58864071110861)	14	{'Decoration'}	{'Wall decoration  ', 'Photo Frame'}
+15	15	('Storage', 'Bag Organizer', 'unknown', 822.5748695235111)	15	{'Storage'}	{'Bag Organizer'}
+16	16	('Kitchen & Dining', 'Cooking Set', 'unknown', 835.89793268474068)	16	{'Kitchen & Dining'}	{'Cooking Set'}
+17	17	('Kitchen & Dining', 'Kitchen tools', 'tupperware', 836.53238281064989)	17	{'Kitchen & Dining'}	{'Kitchen tools'}
+18	18	('Kitchen & Dining', 'Dining Set', 'tupperware', 845.12799816236145)	18	{'Kitchen & Dining'}	{'Kitchen Knife', 'Drinking Water Pump', 'Dining Set'}
+19	19	('Bedroom', 'Bedsheet', 'unknown', 812.51248878991646)	19	{'Bedroom'}	{'Lamp', 'Bedsheet'}
+20	20	('Bedroom', 'Bedcover', 'unknown', 813.32156903060024)	20	{'Bedroom'}	{'Bedcover'}
+21	21	('Bedroom', 'Pillow', 'unknown', 906.89800282158103)	21	{'Bedroom'}	{'Pillow'}
+22	22	('Storage', 'Rack  ', 'unknown', 816.62743909438268)	22	{'Storage'}	{'Box', 'Cloth Hanger', 'Wardrobe', 'Rack  ', 'Basket  ', 'Shoes Storage', 'Drawer'}
+23	23	('Kitchen & Dining', 'Food Storage', 'unknown', 814.60301859177491)	23	{'Kitchen & Dining'}	{'Food Storage'}
+24	24	('Bedroom', 'Others', 'unknown', 822.233568268314)	24	{'Bedroom'}	{'Lamp', 'Others'}
+25	25	('Decoration', 'Wall decoration  ', 'none', 830.53407501181334)	25	{'Decoration'}	{'Wall decoration  '}
+26	26	('Decoration', 'Others', 'none', 851.35728433584973)	26	{'Decoration'}	{'Others'}
+27	27	('Kitchen & Dining', 'Dining Set', 'unknown', 819.15533698917307)	27	{'Kitchen & Dining'}	{'Dining Set'}
+28	28	('Decoration', 'Curtain', 'jadi', 812.4058251675433)	28	{'Decoration'}	{'Curtain'}
+29	29	('Decoration', 'Clock', 'none', 834.15259575285313)	29	{'Decoration'}	{'Table Cloth', 'Floor Mat', 'Clock', 'Photo Frame'}
+30	30	('Decoration', 'Displays', 'none', 828.3993501746952)	30	{'Decoration'}	{'Displays'}
