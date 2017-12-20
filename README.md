@@ -7,10 +7,10 @@ FILE=pd.read_csv('XXXXXXXXXXX', sep='\t', encoding='utf-8') (no need to add '.cs
 
 Files:
 
-Shopee_bx_1217.py: the code for data analysis
+<Shopee_bx_1217.py>: the code for data analysis
 
-homeres1219.zip, babyres1219.zip: the result csv file with [itemid, modelid, groupidk, group_name]
+<homeres1219.zip>, <babyres1219.zip>: csv file (zip), the required results [itemid, modelid, groupidk, group_name]
 
-homeres1219_dict, babyres1219_dict: specific information of group id and cat2_name&cat3_name (csv file)
+<homeres1219_dict>, <babyres1219_dict>: csv file, group id to its ccorresponding cat2_name and cat3_name 
 
-The ppt file is the presentation file.
+The <Presentation.pptx> is the required presentation file.
