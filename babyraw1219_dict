@@ -1,0 +1,38 @@
+	key	value	NumClass	Cat2sum	Cat3sum
+0	0	('Girl Clothes', 'Dress', 'unknown', 63431.167882619433)	0	{'Girl Clothes'}	{'Dress'}
+1	1	('Baby Clothes', 'Top', 'none', 36819.994015960176)	1	{'Baby Clothes'}	{'Top'}
+2	2	('Boy Clothes', 'Attire Set', 'none', 59347.078980144215)	2	{'Boy Clothes'}	{'Attire Set'}
+3	3	"(""Baby & Kids' Toys"", 'Others', 'none', 60980.132410794307)"	3	"{""Baby & Kids' Toys""}"	{'Robot Toys', 'Electronic Toy', 'Outdoor Toy', 'Others', 'Block Toys', 'Toy Vehicles', 'Playgym', 'Pretend Play'}
+4	4	"(""Baby & Kids' Toys"", 'Others', 'unknown', 49996.747517683536)"	4	"{""Baby & Kids' Toys""}"	{'Others'}
+5	5	('Boy Clothes', 'Boy Pants', 'unknown', 44612.510851261824)	5	{'Boy Clothes'}	{'Boy Pants'}
+6	6	('Girl Clothes', 'Dress', 'none', 66661.058830175447)	6	{'Girl Clothes'}	{'Dress'}
+7	7	('Baby Food', 'Milk', 'susu', 100991.04353692922)	7	{'Baby Food'}	{'Milk'}
+8	8	('Boy Clothes', 'Top', 'oshkosh', 42575.570481067458)	8	{'Boy Clothes'}	{'Top'}
+9	9	('Girl Clothes', 'Attire Set', 'none', 70033.417853266234)	9	{'Girl Clothes'}	{'Attire Set'}
+10	10	('Girl Clothes', 'Others', '11318539', 50334.478934394581)	10	{'Girl Clothes'}	{'Others', 'Skirt'}
+11	11	('Boy Clothes', 'Attire Set', 'unknown', 65114.784523783877)	11	{'Boy Clothes'}	{'Attire Set'}
+12	12	('Baby Clothes', 'Baby Jumpsuit', 'unknown', 68522.613277194992)	12	{'Baby Clothes'}	{'Baby Jumpsuit'}
+13	13	('Girl Clothes', 'Top', 'none', 44379.02544365939)	13	{'Girl Clothes'}	{'Top'}
+14	14	('Baby Clothes', 'Others', 'unknown', 47097.79600053998)	14	{'Baby Clothes'}	{'Others', 'Swimming Attire'}
+15	15	('Girl Clothes', 'Others', 'unknown', 55328.237491450534)	15	{'Girl Clothes'}	{'Others'}
+16	16	('Baby Diapers', 'Disposable Diapers', 'mamypoko', 63935.000981137659)	16	{'Baby Diapers'}	{'Disposable Diapers'}
+17	17	('Girl Clothes', 'Muslim Attire', 'unknown', 85687.878425158284)	17	{'Girl Clothes'}	{'Muslim Attire'}
+18	18	('Baby Clothes', 'Legging', 'legging', 28743.06982008418)	18	{'Baby Clothes'}	{'Legging'}
+19	19	('Girl Clothes', 'Attire Set', 'unknown', 63566.109042448828)	19	{'Girl Clothes'}	{'Underwear', 'Skirt', 'Indonesian Traditional Clothes', 'Costume', 'Swimming Attire', 'Attire Set'}
+20	20	('Girl Clothes', 'Girl Shorts', 'unknown', 35062.773775581998)	20	{'Girl Clothes'}	{'Girl Shorts'}
+21	21	('Baby Clothes', 'Others', 'none', 40228.245485424741)	21	{'Baby Clothes'}	{'Others'}
+22	22	"(""Baby & Kids' Toys"", 'Educational Toy', 'none', 46597.585447246587)"	22	"{""Baby & Kids' Toys""}"	{'Educational Toy'}
+23	23	"(""Baby & Kids' Toys"", 'Others', 'mainan', 54512.310550400231)"	23	"{""Baby & Kids' Toys""}"	{'Robot Toys', 'Electronic Toy', 'Outdoor Toy', 'Others', 'Block Toys', 'Toy Vehicles', 'Playgym', 'Pretend Play'}
+24	24	('Boy Clothes', 'Others', 'unknown', 50603.039105036391)	24	{'Boy Clothes'}	{'Pijama', 'Underwear', 'Indonesian Traditional Clothes', 'Costume', 'Boy Shorts', 'Jeans', 'Others', 'Swimming Attire', 'Muslim Attire'}
+25	25	"(""Baby & Kids' Toys"", 'Educational Toy', 'unknown', 62444.217291133973)"	25	"{""Baby & Kids' Toys""}"	{'Educational Toy', 'Robot Toys', 'Electronic Toy', 'Outdoor Toy', 'Block Toys', 'Toy Vehicles', 'Playgym', 'Pretend Play'}
+26	26	('Girl Clothes', 'Pijama', 'none', 49866.83000896492)	26	{'Girl Clothes'}	{'Pijama', 'Underwear', 'Skirt', 'Indonesian Traditional Clothes', 'Costume', 'Swimming Attire'}
+27	27	('Baby Diapers', 'Others', 'mamypoko', 60337.784155608031)	27	{'Baby Diapers'}	{'Others'}
+28	28	('Baby Food', 'Others', 'unknown', 51636.13337374189)	28	{'Baby Food'}	{'Baby Biscuit', 'Baby Porridge', 'Snack', 'Vitamin', 'Others', 'Organic Baby Food'}
+29	29	('Baby Clothes', 'Baby Pijama', 'setelan', 48863.743613307059)	29	{'Baby Clothes'}	{'Baby Pijama'}
+30	30	('Boy Clothes', 'Top', 'none', 45815.956968648345)	30	{'Boy Clothes'}	{'Pijama', 'Underwear', 'Indonesian Traditional Clothes', 'Costume', 'Boy Shorts', 'Top', 'Jeans', 'Others', 'Swimming Attire', 'Muslim Attire'}
+31	31	('Baby Clothes', 'Baby Jumpsuit', 'none', 67138.258059116924)	31	{'Baby Clothes'}	{'Baby Jumpsuit', 'Swimming Attire'}
+32	32	('Baby Diapers', 'Cloth Diapers', 'popok', 42473.279811269378)	32	{'Baby Diapers'}	{'Cloth Diapers'}
+33	33	('Baby Clothes', 'Shorts', 'unknown', 27891.914634302779)	33	{'Baby Clothes'}	{'Flannel Baby Blankets', 'Shorts', 'Swimming Attire'}
+34	34	('Girl Clothes', 'Top', 'unknown', 43502.592293897382)	34	{'Girl Clothes'}	{'Top'}
+35	35	('Baby Clothes', 'Others', '20689191', 38782.6825206957)	35	{'Boy Clothes', 'Baby Clothes'}	{'Others'}
+36	36	('Boy Clothes', 'Top', 'unknown', 40460.708164163363)	36	{'Boy Clothes'}	{'Top'}
