@@ -1,5 +1,5 @@
-# Shopee_DS_181219
-Shopee Results 181219
+# Shopee_DS_171219
+Shopee Results 171219
 
 open the csv file with as follwing format:
 
